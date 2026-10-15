@@ -3,7 +3,7 @@
 A fully responsive, component-based recreation of the supplied "Healthy Meals" design, built with
 **Expo (React Native for Web)**, **Expo Router**, **TypeScript** and **NativeWind v5 (Tailwind CSS v4)**.
 
-**Live demo:** _paste your Vercel URL here after deploying_
+**Live demo:** https://healthy-meals-two.vercel.app_
 
 ## Features
 
